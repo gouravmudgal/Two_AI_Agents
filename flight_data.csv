@@ -1,0 +1,10 @@
+from_city,to_city,price
+Delhi,Mumbai,4500
+Delhi,Bangalore,5000
+Delhi,Chennai,5200
+Mumbai,Bangalore,4300
+Mumbai,Chennai,4800
+Bangalore,Chennai,4100
+Bangalore,Delhi,5000
+Chennai,Delhi,5200
+Chennai,Mumbai,4800
